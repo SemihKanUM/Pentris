@@ -1,6 +1,6 @@
 # Tetris with Genetic Algorithm 🎮🧬
 
-(PENTRIS_free-file.png)
+![Pentris](PENTRIS_free-file.png)
 
 This project implements a **Tetris game** with both a **GUI** and a **logic engine**, extended with a **Genetic Algorithm (GA) bot** that plays infinitely by continuously improving its strategy.  
 
